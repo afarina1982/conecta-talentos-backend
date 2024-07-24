@@ -22,4 +22,3 @@ export class EstudianteService {
     this.estudiantes = this.estudiantes.filter(estudiante => estudiante.id !== id);
   }
 }
-npm
