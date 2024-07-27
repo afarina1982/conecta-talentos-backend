@@ -1,4 +1,4 @@
-import { Estudiante } from '../estudiante/estudiante';
+import { Estudiante } from '../estudiantes/estudiante';
 
 export class Postulacion {
     constructor(
