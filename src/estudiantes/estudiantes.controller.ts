@@ -27,7 +27,7 @@ export class EstudianteController {
         }
      
     }
-
+// prueba de nuevo commit
     //  Obtener todos los estudiantes
 
     @Get()
